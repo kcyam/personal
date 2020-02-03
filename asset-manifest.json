@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.4c6a72e0.chunk.css",
-    "main.js": "/personal/static/js/main.dd9d84b6.chunk.js",
-    "main.js.map": "/personal/static/js/main.dd9d84b6.chunk.js.map",
+    "main.css": "/personal/static/css/main.f465523c.chunk.css",
+    "main.js": "/personal/static/js/main.cfc5c07c.chunk.js",
+    "main.js.map": "/personal/static/js/main.cfc5c07c.chunk.js.map",
     "runtime-main.js": "/personal/static/js/runtime-main.17c9c6f7.js",
     "runtime-main.js.map": "/personal/static/js/runtime-main.17c9c6f7.js.map",
     "static/css/2.559fd73f.chunk.css": "/personal/static/css/2.559fd73f.chunk.css",
-    "static/js/2.f70528f2.chunk.js": "/personal/static/js/2.f70528f2.chunk.js",
-    "static/js/2.f70528f2.chunk.js.map": "/personal/static/js/2.f70528f2.chunk.js.map",
+    "static/js/2.38afb50d.chunk.js": "/personal/static/js/2.38afb50d.chunk.js",
+    "static/js/2.38afb50d.chunk.js.map": "/personal/static/js/2.38afb50d.chunk.js.map",
     "index.html": "/personal/index.html",
-    "precache-manifest.4bd46ff20c27967da24d4c30fbcbbc9c.js": "/personal/precache-manifest.4bd46ff20c27967da24d4c30fbcbbc9c.js",
+    "precache-manifest.db67c49dee88c020e6ba1ac0e65956e0.js": "/personal/precache-manifest.db67c49dee88c020e6ba1ac0e65956e0.js",
     "service-worker.js": "/personal/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/personal/static/css/2.559fd73f.chunk.css.map",
-    "static/css/main.4c6a72e0.chunk.css.map": "/personal/static/css/main.4c6a72e0.chunk.css.map",
-    "static/js/2.f70528f2.chunk.js.LICENSE": "/personal/static/js/2.f70528f2.chunk.js.LICENSE",
+    "static/css/main.f465523c.chunk.css.map": "/personal/static/css/main.f465523c.chunk.css.map",
+    "static/js/2.38afb50d.chunk.js.LICENSE": "/personal/static/js/2.38afb50d.chunk.js.LICENSE",
+    "static/media/Gameshow.PNG": "/personal/static/media/Gameshow.ea2984b4.PNG",
+    "static/media/cromadic.png": "/personal/static/media/cromadic.6e10cc02.png",
     "static/media/marble_bg.jpg": "/personal/static/media/marble_bg.06a5b008.jpg",
     "static/media/App.css": "/personal/static/media/marble_bg.2a0ea4e8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.17c9c6f7.js",
     "static/css/2.559fd73f.chunk.css",
-    "static/js/2.f70528f2.chunk.js",
-    "static/css/main.4c6a72e0.chunk.css",
-    "static/js/main.dd9d84b6.chunk.js"
+    "static/js/2.38afb50d.chunk.js",
+    "static/css/main.f465523c.chunk.css",
+    "static/js/main.cfc5c07c.chunk.js"
   ]
 }
