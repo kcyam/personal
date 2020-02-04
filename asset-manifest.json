@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.f465523c.chunk.css",
-    "main.js": "/personal/static/js/main.cfc5c07c.chunk.js",
-    "main.js.map": "/personal/static/js/main.cfc5c07c.chunk.js.map",
+    "main.css": "/personal/static/css/main.90d42530.chunk.css",
+    "main.js": "/personal/static/js/main.fb80eef4.chunk.js",
+    "main.js.map": "/personal/static/js/main.fb80eef4.chunk.js.map",
     "runtime-main.js": "/personal/static/js/runtime-main.17c9c6f7.js",
     "runtime-main.js.map": "/personal/static/js/runtime-main.17c9c6f7.js.map",
     "static/css/2.559fd73f.chunk.css": "/personal/static/css/2.559fd73f.chunk.css",
-    "static/js/2.38afb50d.chunk.js": "/personal/static/js/2.38afb50d.chunk.js",
-    "static/js/2.38afb50d.chunk.js.map": "/personal/static/js/2.38afb50d.chunk.js.map",
+    "static/js/2.b06c25a4.chunk.js": "/personal/static/js/2.b06c25a4.chunk.js",
+    "static/js/2.b06c25a4.chunk.js.map": "/personal/static/js/2.b06c25a4.chunk.js.map",
     "index.html": "/personal/index.html",
-    "precache-manifest.db67c49dee88c020e6ba1ac0e65956e0.js": "/personal/precache-manifest.db67c49dee88c020e6ba1ac0e65956e0.js",
+    "precache-manifest.7d928b6290b9807978b9f539f1f5f06f.js": "/personal/precache-manifest.7d928b6290b9807978b9f539f1f5f06f.js",
     "service-worker.js": "/personal/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/personal/static/css/2.559fd73f.chunk.css.map",
-    "static/css/main.f465523c.chunk.css.map": "/personal/static/css/main.f465523c.chunk.css.map",
-    "static/js/2.38afb50d.chunk.js.LICENSE": "/personal/static/js/2.38afb50d.chunk.js.LICENSE",
+    "static/css/main.90d42530.chunk.css.map": "/personal/static/css/main.90d42530.chunk.css.map",
+    "static/js/2.b06c25a4.chunk.js.LICENSE": "/personal/static/js/2.b06c25a4.chunk.js.LICENSE",
     "static/media/Gameshow.PNG": "/personal/static/media/Gameshow.ea2984b4.PNG",
+    "static/media/copyright.png": "/personal/static/media/copyright.89d87843.png",
     "static/media/cromadic.png": "/personal/static/media/cromadic.6e10cc02.png",
+    "static/media/kemono.png": "/personal/static/media/kemono.70d0ccd6.png",
     "static/media/marble_bg.jpg": "/personal/static/media/marble_bg.06a5b008.jpg",
     "static/media/App.css": "/personal/static/media/marble_bg.2a0ea4e8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.17c9c6f7.js",
     "static/css/2.559fd73f.chunk.css",
-    "static/js/2.38afb50d.chunk.js",
-    "static/css/main.f465523c.chunk.css",
-    "static/js/main.cfc5c07c.chunk.js"
+    "static/js/2.b06c25a4.chunk.js",
+    "static/css/main.90d42530.chunk.css",
+    "static/js/main.fb80eef4.chunk.js"
   ]
 }
