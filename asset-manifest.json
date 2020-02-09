@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.66f4c0bc.chunk.css",
-    "main.js": "/personal/static/js/main.9f6b32e8.chunk.js",
-    "main.js.map": "/personal/static/js/main.9f6b32e8.chunk.js.map",
+    "main.css": "/personal/static/css/main.f7cce508.chunk.css",
+    "main.js": "/personal/static/js/main.4cd88c54.chunk.js",
+    "main.js.map": "/personal/static/js/main.4cd88c54.chunk.js.map",
     "runtime-main.js": "/personal/static/js/runtime-main.17c9c6f7.js",
     "runtime-main.js.map": "/personal/static/js/runtime-main.17c9c6f7.js.map",
     "static/css/2.559fd73f.chunk.css": "/personal/static/css/2.559fd73f.chunk.css",
-    "static/js/2.35a1c13e.chunk.js": "/personal/static/js/2.35a1c13e.chunk.js",
-    "static/js/2.35a1c13e.chunk.js.map": "/personal/static/js/2.35a1c13e.chunk.js.map",
+    "static/js/2.0e8848e8.chunk.js": "/personal/static/js/2.0e8848e8.chunk.js",
+    "static/js/2.0e8848e8.chunk.js.map": "/personal/static/js/2.0e8848e8.chunk.js.map",
     "index.html": "/personal/index.html",
-    "precache-manifest.870d646ea5c3f093663f229271f04da8.js": "/personal/precache-manifest.870d646ea5c3f093663f229271f04da8.js",
+    "precache-manifest.ecb15e7fd19bdf180c9b565f45ccbc27.js": "/personal/precache-manifest.ecb15e7fd19bdf180c9b565f45ccbc27.js",
     "service-worker.js": "/personal/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/personal/static/css/2.559fd73f.chunk.css.map",
-    "static/css/main.66f4c0bc.chunk.css.map": "/personal/static/css/main.66f4c0bc.chunk.css.map",
-    "static/js/2.35a1c13e.chunk.js.LICENSE": "/personal/static/js/2.35a1c13e.chunk.js.LICENSE",
+    "static/css/main.f7cce508.chunk.css.map": "/personal/static/css/main.f7cce508.chunk.css.map",
+    "static/js/2.0e8848e8.chunk.js.LICENSE": "/personal/static/js/2.0e8848e8.chunk.js.LICENSE",
     "static/media/Gameshow.PNG": "/personal/static/media/Gameshow.ea2984b4.PNG",
     "static/media/copyright.png": "/personal/static/media/copyright.89d87843.png",
     "static/media/cromadic.png": "/personal/static/media/cromadic.6e10cc02.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.17c9c6f7.js",
     "static/css/2.559fd73f.chunk.css",
-    "static/js/2.35a1c13e.chunk.js",
-    "static/css/main.66f4c0bc.chunk.css",
-    "static/js/main.9f6b32e8.chunk.js"
+    "static/js/2.0e8848e8.chunk.js",
+    "static/css/main.f7cce508.chunk.css",
+    "static/js/main.4cd88c54.chunk.js"
   ]
 }
