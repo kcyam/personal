@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.6ed7db64.chunk.css",
-    "main.js": "/personal/static/js/main.934a08c2.chunk.js",
-    "main.js.map": "/personal/static/js/main.934a08c2.chunk.js.map",
+    "main.css": "/personal/static/css/main.6de381f9.chunk.css",
+    "main.js": "/personal/static/js/main.f1098c4c.chunk.js",
+    "main.js.map": "/personal/static/js/main.f1098c4c.chunk.js.map",
     "runtime-main.js": "/personal/static/js/runtime-main.17c9c6f7.js",
     "runtime-main.js.map": "/personal/static/js/runtime-main.17c9c6f7.js.map",
     "static/css/2.559fd73f.chunk.css": "/personal/static/css/2.559fd73f.chunk.css",
-    "static/js/2.637f9dea.chunk.js": "/personal/static/js/2.637f9dea.chunk.js",
-    "static/js/2.637f9dea.chunk.js.map": "/personal/static/js/2.637f9dea.chunk.js.map",
+    "static/js/2.129bf9ad.chunk.js": "/personal/static/js/2.129bf9ad.chunk.js",
+    "static/js/2.129bf9ad.chunk.js.map": "/personal/static/js/2.129bf9ad.chunk.js.map",
     "index.html": "/personal/index.html",
-    "precache-manifest.dd542b97cf762ce8888d97a2482f64c8.js": "/personal/precache-manifest.dd542b97cf762ce8888d97a2482f64c8.js",
+    "precache-manifest.99f1578534260f8aa73ab9f8fa085471.js": "/personal/precache-manifest.99f1578534260f8aa73ab9f8fa085471.js",
     "service-worker.js": "/personal/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/personal/static/css/2.559fd73f.chunk.css.map",
-    "static/css/main.6ed7db64.chunk.css.map": "/personal/static/css/main.6ed7db64.chunk.css.map",
-    "static/js/2.637f9dea.chunk.js.LICENSE": "/personal/static/js/2.637f9dea.chunk.js.LICENSE",
+    "static/css/main.6de381f9.chunk.css.map": "/personal/static/css/main.6de381f9.chunk.css.map",
+    "static/js/2.129bf9ad.chunk.js.LICENSE": "/personal/static/js/2.129bf9ad.chunk.js.LICENSE",
+    "static/media/00003_gummies.png": "/personal/static/media/00003_gummies.b0cf135b.png",
     "static/media/Gameshow.PNG": "/personal/static/media/Gameshow.ea2984b4.PNG",
     "static/media/copyright.png": "/personal/static/media/copyright.89d87843.png",
     "static/media/cromadic.png": "/personal/static/media/cromadic.6e10cc02.png",
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.17c9c6f7.js",
     "static/css/2.559fd73f.chunk.css",
-    "static/js/2.637f9dea.chunk.js",
-    "static/css/main.6ed7db64.chunk.css",
-    "static/js/main.934a08c2.chunk.js"
+    "static/js/2.129bf9ad.chunk.js",
+    "static/css/main.6de381f9.chunk.css",
+    "static/js/main.f1098c4c.chunk.js"
   ]
 }
