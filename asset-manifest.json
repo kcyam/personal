@@ -1,32 +1,34 @@
 {
   "files": {
     "main.css": "/personal/static/css/main.6de381f9.chunk.css",
-    "main.js": "/personal/static/js/main.f7187f68.chunk.js",
-    "main.js.map": "/personal/static/js/main.f7187f68.chunk.js.map",
+    "main.js": "/personal/static/js/main.e04e7d35.chunk.js",
+    "main.js.map": "/personal/static/js/main.e04e7d35.chunk.js.map",
     "runtime-main.js": "/personal/static/js/runtime-main.17c9c6f7.js",
     "runtime-main.js.map": "/personal/static/js/runtime-main.17c9c6f7.js.map",
     "static/css/2.559fd73f.chunk.css": "/personal/static/css/2.559fd73f.chunk.css",
-    "static/js/2.129bf9ad.chunk.js": "/personal/static/js/2.129bf9ad.chunk.js",
-    "static/js/2.129bf9ad.chunk.js.map": "/personal/static/js/2.129bf9ad.chunk.js.map",
+    "static/js/2.3fe98944.chunk.js": "/personal/static/js/2.3fe98944.chunk.js",
+    "static/js/2.3fe98944.chunk.js.map": "/personal/static/js/2.3fe98944.chunk.js.map",
     "index.html": "/personal/index.html",
-    "precache-manifest.b338444beb92d006c99d3732640a8407.js": "/personal/precache-manifest.b338444beb92d006c99d3732640a8407.js",
+    "precache-manifest.12d165d2d4b415d41ae0813b844adc18.js": "/personal/precache-manifest.12d165d2d4b415d41ae0813b844adc18.js",
     "service-worker.js": "/personal/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/personal/static/css/2.559fd73f.chunk.css.map",
     "static/css/main.6de381f9.chunk.css.map": "/personal/static/css/main.6de381f9.chunk.css.map",
-    "static/js/2.129bf9ad.chunk.js.LICENSE": "/personal/static/js/2.129bf9ad.chunk.js.LICENSE",
+    "static/js/2.3fe98944.chunk.js.LICENSE": "/personal/static/js/2.3fe98944.chunk.js.LICENSE",
     "static/media/00003_gummies.png": "/personal/static/media/00003_gummies.b0cf135b.png",
     "static/media/Gameshow.PNG": "/personal/static/media/Gameshow.ea2984b4.PNG",
     "static/media/copyright.png": "/personal/static/media/copyright.89d87843.png",
     "static/media/cromadic.png": "/personal/static/media/cromadic.6e10cc02.png",
     "static/media/kemono.png": "/personal/static/media/kemono.70d0ccd6.png",
+    "static/media/main.jpg": "/personal/static/media/main.0c65f8a9.jpg",
     "static/media/marble_bg.jpg": "/personal/static/media/marble_bg.06a5b008.jpg",
-    "static/media/App.css": "/personal/static/media/marble_bg.2a0ea4e8.png"
+    "static/media/App.css": "/personal/static/media/marble_bg.2a0ea4e8.png",
+    "static/media/mongolian_beef.jpg": "/personal/static/media/mongolian_beef.4021a32d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.17c9c6f7.js",
     "static/css/2.559fd73f.chunk.css",
-    "static/js/2.129bf9ad.chunk.js",
+    "static/js/2.3fe98944.chunk.js",
     "static/css/main.6de381f9.chunk.css",
-    "static/js/main.f7187f68.chunk.js"
+    "static/js/main.e04e7d35.chunk.js"
   ]
 }
